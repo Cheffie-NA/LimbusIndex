@@ -1,0 +1,26 @@
+2
+4
+3
+Gluttony
+Hack
+[Clash win] dmg +40%, if target has 5+ rupture coin power +1 I: Heal by 50% of damage dealt
+Slash
+1
+6
+10
+Sloth
+Dismember
+If target has 5+ rupture, deal +50% damage I: On hit inflict 5 Rupture, heal by 50% damage dealt
+Slash
+4
+4
+2
+Lust
+Eviscerate
+If target has 5+ rupture, +1 coin power I-III: If target has rupture, deal 30% damage as bonus damage IV: Heal by 100% of damage dealt
+Pierce
+146
+33
+Gregor
+G Corp Manager Corporal
+4x Gluttony Resources: At less than 25% HP, heal by 5% of Max HP after winning a clash.

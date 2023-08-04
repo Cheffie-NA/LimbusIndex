@@ -1,0 +1,26 @@
+2
+4
+3
+Envy
+Cackle
+[Clash win] target loses 3 SP I: Inflict 1 Nails II: Inflict 2 Bleed
+Pierce
+3
+4
+4
+Lust
+The Gripping
+I: On hit inflict 2 Nails II: On hit inflict 3 Nails III: Heads hit inflict 1 Paralyze next turn, on hit inflict Gaze
+Pierce
+3
+6
+2
+Pride
+Execution
+On kill, heal all allies for 10 SP and apply 1 Pierce DMG Up and Blunt DMG Up I: On hit inflict 2 Nails II: On heads inflict 2 Nails III: +70% damage against targets with 5+ Nails
+Blunt
+146
+34
+Faust
+The One Who Grips
+At the start of the combat phase, heal 2 allies with the least SP for 15 SP. If the ally is from N Corp, also apply 2 Fanatic

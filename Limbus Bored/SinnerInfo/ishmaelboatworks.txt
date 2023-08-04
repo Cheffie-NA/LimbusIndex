@@ -1,0 +1,26 @@
+2
+4
+3
+Pride
+Ready to Crush
+On use: gain 3 tremor count I: Gain 3 Tremor II: Inflict 3 sinking
+Pierce
+2
+5
+5
+Sloth
+Explosive Blast
+At 5+ Tremor count, coin power +1 I: On hit inflict 3 Tremor, gain 2 Tremor II: On hit inflict 6 Sinking, inflict 4 Defense Down
+Pierce
+3
+3
+5
+Gloom
+Risky Judgement
+Coin power +1 for every 5 Tremor on self. If target has 6+ sinking deal 40% more damage I: Inflict 5 Sinking II: Inflict 3 Sinking, Spend 5 Tremor to inflict 1 fragile next turn. III: Inflict 3 Sinking, Spend 5 Tremor to inflict 2 fragile next turn.
+Pierce
+154
+33
+Ishmael
+Molar Boatworks Fixer
+3x Pride resources: On hit against a target with tremor, inflict +1 sinking count
